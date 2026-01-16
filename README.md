@@ -1,4 +1,4 @@
-# 🎨 Generative-Arts-Math-Based
+# Generative-Arts-Math-Based
 
 **Generative math-based art experiments** — fractals, algorithms, and mathematical patterns used to create procedural and generative visuals.
 
@@ -6,7 +6,7 @@ This repository explores how **mathematics + code** can produce complex, beautif
 
 ---
 
-## 🧠 What This Repo Is About
+## What This Repo Is About
 
 This project focuses on:
 
@@ -20,7 +20,7 @@ All artworks are generated **purely through math and logic**, not manual design.
 
 ---
 
-## 📂 Planned / Included Topics
+## Planned / Included Topics
 
 - 🔹 Fractals (Mandelbrot, Julia, custom fractals)
 - 🔹 L-Systems
@@ -32,7 +32,7 @@ All artworks are generated **purely through math and logic**, not manual design.
 
 ---
 
-## 🛠 Tech & Tools (Flexible)
+## Tech & Tools (Flexible)
 
 Depending on experiments, this repo may use:
 
@@ -46,7 +46,7 @@ Each experiment lives in its **own folder** with explanation.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 Generative-Arts-Math-Based/
 │
@@ -69,7 +69,7 @@ Generative-Arts-Math-Based/
 
 ---
 
-## 📸 Outputs
+## Outputs
 
 - Generated images
 - Animations / GIFs
@@ -80,7 +80,7 @@ Generative-Arts-Math-Based/
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 - Explore the **artistic side of mathematics**
 - Learn how simple formulas create complex visuals
@@ -89,7 +89,7 @@ Generative-Arts-Math-Based/
 
 ---
 
-## 🚀 Future Ideas
+## Future Ideas
 
 - Interactive generative art
 - AI-assisted parameter exploration
@@ -99,7 +99,7 @@ Generative-Arts-Math-Based/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Ideas, experiments, and improvements are welcome.
 
@@ -110,7 +110,7 @@ If you contribute:
 
 ---
 
-## 📜 License
+## License
 
 MIT License — free to use, modify, and experiment.
 
