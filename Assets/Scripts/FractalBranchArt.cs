@@ -43,7 +43,7 @@ public class FractalBranchArt : MonoBehaviour
 
     [Header("Coral and Lightning Specific Settings")]
     [Range(0.0f, 1.0f)]
-    public float randomness = 0.2f;
+    public float randomness = 0.3f;
 
     [Range(1.0f, 5.0f)]
     public float lightningThickness = 1.0f;
